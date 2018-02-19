@@ -1,0 +1,5 @@
+Merhaba
+ben Kotlin
+bu dosyadan
+verileri satır satır okuyup
+ekrana yazdıracağız.
